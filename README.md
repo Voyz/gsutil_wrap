@@ -41,6 +41,20 @@ gsutil_wrap image weighs 220MB decompressed and takes only a few seconds to pull
 ## License
 See [LICENSE](LICENSE)
 
+## Built by Voy
+
+Hi! Thanks for checking out and using this library. If you are interested in discussing your project, requiring mentorship, considering hiring me, or just wanna chat - I'm happy to talk.
+
+You can send me an email to get in touch: hello@voyzan.com
+
+Or if you'd just want to give something back, I've got a Buy Me A Coffee account:
+
+<a href="https://www.buymeacoffee.com/voyzan" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/Voyz/voyz_public/master/vz_BMC.png" alt="Buy Me A Coffee" style="max-width:100%;" width="192">
+</a>
+
+Thanks and have an awesome day 👋
+
 [gsutil]: https://cloud.google.com/storage/docs/gsutil
 [cloud-image]: https://hub.docker.com/r/google/cloud-sdk/
 [cos]: https://cloud.google.com/container-optimized-os
